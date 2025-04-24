@@ -50,6 +50,23 @@ p {
     padding: 0;
   }
 }
+nav {
+  padding: 20px 0;
+}
+
+nav ul {
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 42px;
+}
+
+.logo {
+  max-width: 150px;
+}
 
 .hero {
   background: var(--secondary-color);
